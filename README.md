@@ -43,6 +43,8 @@ A solução será implementada como um sistema web composto por:
 3. Filtrar empresas por setor
 4. Gerar relatório PDF
 
+![diagrama](Diagrama/UseCaseDiagram.drawio.png)
+
 
 ## 7. Conclusão
 Este planejamento inicial define os principais aspectos do projeto, incluindo o problema identificado, a solução proposta e os requisitos do sistema. Com essa estrutura, o desenvolvimento do sistema seguirá um fluxo organizado para atingir os objetivos definidos.
