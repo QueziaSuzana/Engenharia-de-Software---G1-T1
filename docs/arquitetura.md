@@ -26,7 +26,7 @@ A arquitetura do sistema foi representada por meio do **C4 Model**, no nível de
 
 ### Diagrama de Container (C4)
 
-> ![diagrama](docs/c4-container.png)
+> ![diagrama](docs/c4-container.drawio.png)
 
 
 ---
