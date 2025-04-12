@@ -26,7 +26,7 @@ A arquitetura do sistema foi representada por meio do **C4 Model**, no nível de
 
 ### Diagrama de Container (C4)
 
-> ![Diagrama de Container](docs)
+> ![Diagrama de Container](https://github.com/QueziaSuzana/Engenharia-de-Software---G1-T1/blob/main/docs/c4-container.drawio.png)
 
 
 ---
