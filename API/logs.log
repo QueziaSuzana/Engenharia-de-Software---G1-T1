@@ -1,0 +1,88 @@
+INFO:root:Get company by CNPJ report accessed
+INFO:root:Get company by CNPJ report accessed
+INFO:root:Get company by CNPJ report accessed
+INFO:root:Get company by CNPJ report accessed
+INFO:root:Get company by CNPJ report accessed
+INFO:root:Get companies report accessed
+INFO:root:Getting all companies
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Companies: [<models.empresas.Empresas object at 0x7a427021f050>, <models.empresas.Empresas object at 0x7a426fb014d0>, <models.empresas.Empresas object at 0x7a426fb037d0>, <models.empresas.Empresas object at 0x7a426fb03190>, <models.empresas.Empresas object at 0x7a426fb03850>]
+INFO:root:Getting company sectors for HealthPlus - 98765432000102 - Rua B - Saúde
+INFO:root:Getting report for RH
+INFO:root:Getting report for Marketing
+INFO:root:Getting report for Engenharia de Software
+INFO:root:Getting report for Diretoria
+INFO:root:Getting report for Segurança
+INFO:root:Getting report for Ciência de Dados
+INFO:root:Getting company sectors for EduFuture - 11223344000103 - Rua C - Educação
+INFO:root:Getting report for RH
+INFO:root:Getting report for Marketing
+INFO:root:Getting report for Engenharia de Software
+INFO:root:Getting report for Diretoria
+INFO:root:Getting report for Segurança
+INFO:root:Getting report for Ciência de Dados
+INFO:root:Getting company sectors for EcoGreen - 22334455000104 - Rua D - Sustentabilidade
+INFO:root:Getting report for RH
+INFO:root:Getting report for Marketing
+INFO:root:Getting report for Engenharia de Software
+INFO:root:Getting report for Diretoria
+INFO:root:Getting report for Segurança
+INFO:root:Getting report for Ciência de Dados
+INFO:root:Getting company sectors for FinServe - 33445566000105 - Rua E - Finanças
+INFO:root:Getting report for RH
+INFO:root:Getting report for Marketing
+INFO:root:Getting report for Engenharia de Software
+INFO:root:Getting report for Diretoria
+INFO:root:Getting report for Segurança
+INFO:root:Getting report for Ciência de Dados
+INFO:root:Getting company sectors for RetailMax - 44556677000106 - Rua F - Varejo
+INFO:root:Getting report for RH
+INFO:root:Getting report for Marketing
+INFO:root:Getting report for Engenharia de Software
+INFO:root:Getting report for Diretoria
+INFO:root:Getting report for Segurança
+INFO:root:Getting report for Ciência de Dados
+INFO:root:Get all companies accessed
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get all companies' sectors accessed
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get all companies accessed.
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get company by CNPJ 123 accessed.
+ERROR:root:Error getting company by CNPJ 123: 'NoneType' object is not subscriptable.
+INFO:root:Get all companies accessed.
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get company by CNPJ 123 accessed.
+ERROR:root:Error getting company by CNPJ 123: 'NoneType' object is not subscriptable.
+INFO:root:Get company by CNPJ 33445566000105 accessed.
+INFO:root:Get company sectors by CNPJ 33445566000105 accessed.
+INFO:root:Get all companies report accessed.
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get company report by CNPJ 33445566000105 accessed.
+INFO:root:Get all companies accessed.
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get company by CNPJ 98765432000102 accessed.
+INFO:root:Get company sectors by CNPJ 98765432000102 accessed.
+INFO:root:Get all companies report accessed.
+INFO:root:Getting all companies: [(1, 'HealthPlus', '98765432000102', 'Rua B', ' Saúde'), (2, 'EduFuture', '11223344000103', 'Rua C', ' Educação'), (3, 'EcoGreen', '22334455000104', 'Rua D', ' Sustentabilidade'), (4, 'FinServe', '33445566000105', 'Rua E', ' Finanças'), (5, 'RetailMax', '44556677000106', 'Rua F', ' Varejo')]
+INFO:root:Get company report by CNPJ 98765432000102 accessed.
