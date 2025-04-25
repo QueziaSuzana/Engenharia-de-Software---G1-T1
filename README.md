@@ -2,7 +2,7 @@
 # Definição do Problema e Planejamento Inicial
 
 ## 1. Introdução
-O projeto consiste no desenvolvimento de um sistema web integrado a uma API para gerar relatórios automáticos sobre empresas e setores de atividade. O sistema permite a coleta, processamento e apresentação de informações de maneira organizada e acessível.
+O projeto consiste no desenvolvimento de um sistema web integrado a uma API para gerar relatórios automáticos sobre empresas e setores de atividade. Esses relatórios visam visualizar a distribuição de funcionários em uma empresa por genêro e por setor, em quantidade e porcentagem, exibirá também a média de idade para entender o perfil desses funcionários. O sistema permite a coleta, processamento e apresentação de informações de maneira organizada e acessível.
 
 ## 2. Problema a Ser Resolvido
 Empresas frequentemente necessitam gerar relatórios de dados sobre sua estrutura interna, distribução de funcionários e outros indicadores. O processo manual para obter essas informações pode ser demorado e propenso a erros. A solução proposta visa automatizar esse processo, garantindo rapidez, precisão e facilidade de uso.
