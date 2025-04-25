@@ -6,9 +6,11 @@ O projeto consiste no desenvolvimento de um sistema web integrado a uma API para
 
 ## 2. Problema a Ser Resolvido
 Empresas frequentemente necessitam gerar relatórios de dados sobre sua estrutura interna, distribução de funcionários e outros indicadores. O processo manual para obter essas informações pode ser demorado e propenso a erros. A solução proposta visa automatizar esse processo, garantindo rapidez, precisão e facilidade de uso.
+O problema a ser resolvido foi escolhido no site do ODS (Os Objetivos de Desenvolvimento Sustentável no Brasil) tema Igualdade de gênero.
 
 ## 3. Objetivo
 Criar uma plataforma que permita a entrada de dados sobre empresas e seus setores, processando as informações automaticamente para gerar relatórios em PDF. O projeto visa fornecer uma ferramenta simples, segura e confiável para gestão e análise empresarial.
+Objetivo principal visando o ODS: Um site de consultas de oportunidades de gênero dentro de empresas.
 
 ## 4. Solução Proposta
 A solução será implementada como um sistema web composto por:
